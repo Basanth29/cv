@@ -1,0 +1,31 @@
+body{
+    background-color: #CBEDD5;
+}
+
+hr{
+    background-color: none;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+}
+
+h1{
+    -webkit-text-fill-color: #439A97;
+}
+
+h2{
+    -webkit-text-fill-color: #439A97;
+}
+
+h3{
+    -webkit-text-fill-color: #439A97;
+}
+
+h2 {
+    -webkit-animation-fill-mode: unset="2px";
+    background-color: #CBEDD5;
+    border-top-left-radius: 0rem;
+    width ="10%";
+    
+}
